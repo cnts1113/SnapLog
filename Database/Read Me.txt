@@ -1,0 +1,1 @@
+This folder is here to serve as a type of "Database" to keep track of all snaps that you recieve and all stories that are potentially available to you. 
